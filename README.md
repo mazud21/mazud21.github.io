@@ -1,65 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Landing Page</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.min.js"></script>
-</head>
-<body>
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container">
-            <a class="navbar-brand" href="#">Your Brand</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#section1">Section 1</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#section2">Section 2</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#section3">Section 3</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+## Welcome to GitHub Pages
+test
+You can use the [editor on GitHub](https://github.com/mazud21/mazud21.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-    <!-- Section 1 -->
-    <section id="section1" class="py-5">
-        <div class="container">
-            <h1>Section 1</h1>
-            <p>This is the content of Section 1.</p>
-        </div>
-    </section>
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-    <!-- Section 2 -->
-    <section id="section2" class="py-5">
-        <div class="container">
-            <h1>Section 2</h1>
-            <p>This is the content of Section 2.</p>
-        </div>
-    </section>
+### Markdown
 
-    <!-- Section 3 -->
-    <section id="section3" class="py-5">
-        <div class="container">
-            <h1>Section 3</h1>
-            <p>This is the content of Section 3.</p>
-        </div>
-    </section>
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-    <!-- Footer -->
-    <footer class="py-4 bg-dark text-white">
-        <div class="container text-center">
-            <p>&copy; 2023 Your Company</p>
-        </div>
-    </footer>
-</body>
-</html>
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mazud21/mazud21.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
